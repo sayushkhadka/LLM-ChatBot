@@ -1,0 +1,11 @@
+python-dotenv
+langchain
+langchain-huggingface
+langchain-community
+transformers
+faiss-cpu
+python-dateutil
+pypdf
+langchain-unstructured
+unstructured[pdf]
+python-magic-bin
