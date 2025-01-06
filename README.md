@@ -24,6 +24,6 @@ This project implements a chatbot that can:
 - **Tool Agents**  
 
 ## How to Run  
-1. Ensure all dependencies are installed: pip install -r requirements.txt
-2. Run the `main.py` file for overall functionalities: python main.py 
+1. Ensure all dependencies are installed: `pip install -r requirements.txt`
+2. Run the `main.py` file for overall functionalities: `python main.py` 
     
