@@ -15,7 +15,7 @@ This project implements a chatbot that can:
 
 ## Technologies Used  
 - **LangChain**  
-- **Hugging Face for the LLM models:**  
+- **Hugging Face for the LLM models:**  (Hugging Face API KEY REQUIRED)
   - `HuggingFaceH4/zephyr-7b-beta` --> text generation  
   - `microsoft/Phi-3-mini-4k-instruct --> text-generation`  
   - `google/flan-t5-large` --> text-to-text generation  
